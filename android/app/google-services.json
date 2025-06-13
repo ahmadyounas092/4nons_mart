@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "980479658075",
+    "project_id": "adminpanelapp-ecommerce",
+    "storage_bucket": "adminpanelapp-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980479658075:android:3781bbb2307c4ccb5e577e",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuReQW9r7Cp_R2yy2KK3AoFbtUPl1DRHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980479658075:android:c55524e3a878c0485e577e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuReQW9r7Cp_R2yy2KK3AoFbtUPl1DRHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980479658075:android:531a60029c8b667a5e577e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_type"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuReQW9r7Cp_R2yy2KK3AoFbtUPl1DRHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980479658075:android:2ce4a39989f83e7c5e577e",
+        "android_client_info": {
+          "package_name": "com.example.mart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuReQW9r7Cp_R2yy2KK3AoFbtUPl1DRHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980479658075:android:324a7b6f8234456b5e577e",
+        "android_client_info": {
+          "package_name": "com.thepakshadows.mart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuReQW9r7Cp_R2yy2KK3AoFbtUPl1DRHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

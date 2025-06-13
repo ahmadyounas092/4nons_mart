@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "adminpanelapp-ecommerce",
+          "appId": "1:980479658075:android:2ce4a39989f83e7c5e577e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "adminpanelapp-ecommerce",
+          "configurations": {
+            "android": "1:980479658075:android:2ce4a39989f83e7c5e577e",
+            "ios": "1:980479658075:ios:08d6381b2474e3475e577e",
+            "web": "1:980479658075:web:4d410db536fe57e55e577e"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

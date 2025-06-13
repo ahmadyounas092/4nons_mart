@@ -1,0 +1,108 @@
+{
+  "categories" : [
+    {
+      "name" : "Women Fashion",
+      "subcategories" : [
+        "Weddings & Events",
+        "Tops & Sets",
+        "Watches"
+      ]
+    },
+    {
+      "name" : "Men Fashion",
+      "subcategories" : [
+        "Outwear & Jackets",
+        "Formal Dress",
+        "Watches",
+        "Glasses & Shades"
+      ]
+    },
+    {
+      "name" : "Computer & Accessories",
+      "subcategories" : [
+        "Laptops",
+        "Personal Computers",
+        "Gaming PC",
+        "Laptop Accessories",
+        "Official Equipments"
+      ]
+    },
+    {
+      "name" : "Toys",
+      "subcategories" : [
+        "Boys Toys",
+        "Girls Toys"
+      ]
+    },
+    {
+      "name" : "Garments",
+      "subcategories" : [
+        "Female Dresses",
+        "Male Dresses",
+        "Women Dresses",
+        "Men Dresses",
+        "Baby Dresses",
+        "Men Bags",
+        "Women Bags",
+        "Male Shoes",
+        "Female Shoes",
+        "Baby Shoes"
+      ]
+    },
+    {
+      "name" : "Sports",
+      "subcategories" : [
+        "Badminton's",
+        "Hockey's",
+        "Cricket",
+        "Football's"
+      ]
+    },
+    {
+      "name" : "Jewelry",
+      "subcategories" : [
+        "Neckless",
+        "Diamond Ring",
+        "Gold"
+      ]
+    },
+    {
+      "name" : "Furniture",
+      "subcategories" :[
+        "Sofa",
+        "Beds",
+        "Metres",
+        "Chairs"
+      ]
+    },
+    {
+      "name" : "Mobile Phones & Tablet",
+      "subcategories" : [
+        "Samsung Phones",
+        "Samsung Tablets",
+        "Apple Iphone's",
+        "Apple Ipad",
+        "Motorola Phones"
+      ]
+    },
+    {
+      "name" : "Cosmetics",
+      "subcategories" : [
+        "Men Creams",
+        "Women Creams",
+        "Women Makeups",
+        "Lipsticks"
+      ]
+    },
+    {
+      "name" : "Stationary",
+      "subcategories" : [
+        "Pencils",
+        "Led Pencils",
+        "Markers",
+        "Registers",
+        "Pages"
+      ]
+    }
+  ]
+}
